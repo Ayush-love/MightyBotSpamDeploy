@@ -13,8 +13,8 @@
 
 # Deploy To Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamDeploy)
-https://github.com/{Ayush-love}/{Ayush-love} 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-love/MightyBotSpamDeploy)
+
 <br>
 
 <details>
